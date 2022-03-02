@@ -1,1 +1,2 @@
 Hello, we are using git repository.
+Welcome user.
